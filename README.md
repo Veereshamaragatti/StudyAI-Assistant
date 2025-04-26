@@ -70,12 +70,6 @@ StudyAI Assistant is an intelligent study companion application that helps users
 - `Pages/`: Contains different functionality pages
 - `faiss_index/`: Vector database indexes
 
-## License
-[Your chosen license]
-
-## Contributors
-[Your name/team]
-
 ## Acknowledgements
 - Thanks to LangChain for document processing capabilities
 - Thanks to Google for the Generative AI API
